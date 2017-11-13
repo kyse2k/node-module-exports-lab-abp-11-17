@@ -2,7 +2,7 @@
 const Icebreaker = require('./Icebreaker.js')
 class Question {
   static Find(){
-    
+
   }
 }
 
